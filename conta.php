@@ -1,3 +1,4 @@
+<?php include("base.php"); ?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,7 +18,7 @@
           <button type="button" class="btn btn-info"><a href="index.html">Inicio</a></button>
           <button type="button" class="btn btn-success"><a href="tiendas.php">Tiendas</a></button>
           <button type="button" class="btn btn-danger"><a href="conta.php">Contáctenos</a></button>
-          <button type="button" class="btn btn-dark"><a href="mensajes.php">Ver Mensajes</a></button>
+          <button type="button" class="btn btn-dark"><a href="usuconta.php">Ver Mensajes</a></button>
     </div>
     </div>
 
@@ -30,36 +31,44 @@
        </h1>
      </div>
      <br><br>
-    <form action="" method="POST">
+    <form action="enviar.php" method="POST">
       <div class="container">
-  <div class="row">
+      <div class="row">
     <div class="col-12">
+    <div class="form-floating mb-3">
+    <input type="text" class="form-control" id="floatingInput" placeholder="nomensajes" name="nomensajes">
+    <label for="floatingInput">No. mensaje</label>  
+    </div>
     <div class="form-floating">
-    <input type="text" class="form-control" id="floatingPassword" placeholder="nombre" name="nombre">
-    <label for="floatingPassword">Ingresa Nombre y Apellido</label>
+    <input type="text" class="form-control" id="floatingPassword" placeholder="Nombre" name="Nombre">
+    <label for="floatingPassword">Nombre y Apellido</label>
     </div>
     <br>
     <div class="form-floating">
-    <input type="text" class="form-control" id="floatingPassword" placeholder="telefono" name="telefono">
-    <label for="floatingPassword">Ingresa Numero Telefonico</label>
+    <input type="text" class="form-control" id="floatingPassword" placeholder="Telefono" name="Telefono">
+    <label for="floatingPassword">Telefono</label>
     </div>
     <br>
     <div class="form-floating">
     <input type="text" class="form-control" id="floatingPassword" placeholder="correo" name="correo">
-    <label for="floatingPassword">Ingresa Correo Electronico</label>
+    <label for="floatingPassword">Correo</label>
     </div>
     <br>
     <div class="form-floating">
-    <input type="text" class="form-control" id="floatingPassword" placeholder="mensaje" name="mensaje">
-    <label for="floatingPassword"> Ingrese su mensaje</label> 
+    <input type="text" class="form-control" id="floatingPassword" placeholder="mensajes" name="mensajes">
+    <label for="floatingPassword">Mensajes</label>
     </div>
-    <br><br>
+    <br>
     <center>
     <input type="submit" class="btn btn-danger" name="enviar">
     </center>
     </div>
 </div>
     <br><br>
+    
+
+
+
 
     <div class="d-grid gap-2">
   <button class="btn btn-warning"  type="button">PBX: 89644005 - Direcion: 9-60, 6A Avenida, Cdad. de Guatemala  - Carnet:2020-40093 - Nombre: Dulce Maria Carias Orantes</button>
