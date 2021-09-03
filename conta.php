@@ -26,9 +26,9 @@
     <div class="container">
        <div style="color: black;">
        <hr>
-      <h1 style = "font-family: moonbright Demo;">
+      <h2 style = "font-family: Bertha Melanie;">
       Contactenos
-       </h1>
+       </h2>
      </div>
      <br><br>
     <form action="enviar.php" method="POST">

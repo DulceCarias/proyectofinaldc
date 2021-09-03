@@ -25,7 +25,7 @@
 
 <div class="container">
 <hr>
-      <h2 style = "font-family: Grestal Script DEMO;">
+      <h2 style = "font-family: Bertha Melanie;">
        Nuestras Tiendas
        </h2>
 <br><br>

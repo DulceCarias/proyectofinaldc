@@ -6,7 +6,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="estilos.css">
     <link rel="stylesheet" href="redes.css">
-    <title style = "font-family: Sandy Kids;"> Productos Y Servicios</title>
+    <title style = "font-family: Sandy Kids;">Redes</title>
   </head>
   <body>
   <video src="img/M34.mp4" autoplay loop >
