@@ -33,7 +33,7 @@
       
           <div class="row" style="color: black;">
               <img src="img/T1.jpg" style="height: 400px; width: 500px;">
-              <div class="col-6"><br><br><br><h2 style = "font-family: Grestal Script DEMO;">
+              <div class="col-6"><br><br><br><h2 style = "font-family: Sandy Kids;">
               Ashley Furniture Homestore Guatemala</h2>
               <br>  <ul><li><h4 style = "font-family: KG What A Time;">
               2410 3535</h4></ul></ul>
@@ -49,7 +49,7 @@
          <br><br>
          <div class="row" style="color: black;">
               <img src="img/T2.jpg" style="height: 400px; width: 500px; margin-top: 50px;">
-              <div class="col-6"><br><br><br><br><br><h2 style = "font-family: Grestal Script DEMO;">
+              <div class="col-6"><br><br><br><br><br><h2 style = "font-family: Sandy Kids;">
               AT OUTDOOR</h2>
               <br>  <ul><li><h4 style = "font-family: KG What A Time;">
               2316 6772</h4></ul></ul>
@@ -64,7 +64,7 @@
           <br><br>
           <div class="row" style="color: black;">
               <img src="img/T3.jfif" style="height: 400px; width: 500px; margin-top: 50px;">
-              <div class="col-6"><br><br><br><br><br><h2 style = "font-family: Grestal Script DEMO;">
+              <div class="col-6"><br><br><br><br><br><h2 style = "font-family: Sandy Kids;">
               Mobilier Furniture</h2></ul>
               <br>  <ul><li><h4 style = "font-family: KG What A Time;">
               2385 4431</h4></ul></ul>
@@ -77,15 +77,28 @@
           </div>
         </div>
     </div>
+    <br><br>
+         <div class="row" style="color: black;">
+              <img src="img/T4.jpeg" style="height: 400px; width: 500px; margin-top: 50px;">
+              <div class="col-6"><br><br><br><br><br><h2 style = "font-family: Sandy Kids;">
+              Muebles Fiesta</h2>
+              <br>  <ul><li><h4 style = "font-family: KG What A Time;">
+              6626 1345</h4></ul></ul>
+              <br>  <ul><li><h4 style = "font-family: KG What A Time;">
+              Grupo TECUN, 36 Calle, Cdad. de Guatemala 00012</h4></ul>
+              <br>  <ul><li><h4 style = "font-family: KG What A Time;">
+              MubelesFieta@gmail.com </h4></ul>
+              <br>  <ul><li> <h4 style = "font-family: KG What A Time;">
+              10:00–20:00 </h4></ul>
+          </div>
+
+    
      
     <div class="container"> 
-            <table  width="100%" >
-              <tr>
-                  <br><br>
-                <td bgcolor="D8BFD8">
-                  PBX: 89644005 - Direcion: 9-60, 6A Avenida, Cdad. de Guatemala  - Carnet:2020-40093 - Nombre: Dulce Maria Carias Orantes
-                </td>
-              </tr>
+    <br><br>
+    <div class="d-grid gap-2">
+            <button class="btn btn-warning"  type="button" bgcolor="D8BFD8">PBX: 89644005 - Direcion: 9-60, 6A Avenida, Cdad. de Guatemala  - Carnet:2020-40093 - Nombre: Dulce Maria Carias Orantes</button>
+          
           </div>
           </table>   
 <hr>

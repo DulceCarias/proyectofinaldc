@@ -1,0 +1,57 @@
+.formulario .logotipo{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    top: 38%;
+    left: 18%;
+    position: absolute;
+    
+    }
+
+    .formulario .ig{
+        width: 170px;
+        height: 140px;
+        border-radius: 0%;
+        top: 40%;
+        left: 28%;
+        position: absolute;
+        
+        }
+
+        .formulario .tteer{
+            width: 199px;
+            height: 205px;
+            border-radius: 50%;
+            top: 35%;
+            left: 38%;
+            position: absolute;
+            
+            
+            }
+            .formulario .pin{
+                width: 250px;
+                height: 152px;
+                border-radius: 0%;
+                top: 38%;
+                left: 47%;
+                position: absolute;
+                
+                }
+                .formulario .gma{
+                    width: 195px;
+                    height: 195px;
+                    border-radius: 0%;
+                    top: 36%;
+                    left: 60%;
+                    position: absolute;
+                    
+                    }
+                    .formulario .wha{
+                        width: 169px;
+                        height: 169px;
+                        border-radius: 30%;
+                        top: 37%;
+                        left: 73%;
+                        position: absolute;
+                        
+                        }

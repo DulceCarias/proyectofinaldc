@@ -26,7 +26,7 @@
   <br><br><br><br>
   <div class="container">
      <div class="col-12">
-        <big> <table class="table table-link table-hoverr" style="color: black; font-family: Bertha Melanie;">
+        <big> <big><table class="table table-link table-hoverr" style="color: black; font-family: Hello Valentica;">
          <tr> </big>
          <th scope="col"><h4 style = "font-family: KG What A Time;"> <div style="color: antiquewhite;">
          nomensaje</h4></th>

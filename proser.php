@@ -27,13 +27,16 @@
     <div class="row">
       <div class="col-md-3 col-sm-6">
         <div class="card" style="width: 17rem;">
-          <img src="img/1.jfif" height="200px" class="card-img-top" alt="...">
-          <div class="card-body">
+        <img src="img/1.jfif" height="200px" class="card-img-top" alt="...">
+          <div class="btn btn-outline-secondary">
               <center>
-            <h5 class="card-title">Comedor De Caboa</h5>
-            <p class="card-text">Precio: Q1,600</p>
+              <h2 style = "font-family: Grethania Script;">
+              Comedor De Caboa</h2>
+            <p class="card-text"> <h4 style = "font-family: Sandy Kids;">
+            Precio: Q1,600</h4></p>
             <div class="card-body">
-            <a class="btn btn-danger"  role="button">Mas Informacion</a>
+            <a class="btn btn-outline-danger btn-lg btn-block"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
             </div>
       </div>
     </div>
@@ -42,12 +45,15 @@
   <div class="col-md-3 col-sm-6">
     <div class="card" style="width: 17rem;">
       <img src="img/2.jpg" height="200px" class="card-img-top" alt="...">
-      <div class="card-body">
+      <div class="btn btn-outline-secondary">
           <center>
-        <h5 class="card-title">Mesa De Noche</h5>
-        <p class="card-text">Precio: Q800</p>
+          <h2 style = "font-family: Grethania Script;">
+          Mesa De Noche</h2>
+        <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q800</h4></p>
         <div class="card-body">
-          <a class="btn btn-dark"  role="button">Mas Informacion</a>
+          <a class="btn btn-outline-dark btn-lg btn-block" href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
         </div>
   </div>
 </div>
@@ -56,12 +62,15 @@
 <div class="col-md-3 col-sm-6">
   <div class="card"  style="width: 17rem;">
     <img src="img/3.jpg" height="200px" class="card-img-top" alt="...">
-    <div class="card-body">
+    <div class="btn btn-outline-secondary">
         <center>
-      <h5 class="card-title">Estanteria</h5>
-      <p class="card-text">Precio: Q500</p>
+        <h2 style = "font-family: Grethania Script;">
+        Estanteria</h2>
+      <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q500</h4></p>
       <div class="card-body">
-        <a class="btn btn-warning"  role="button">Mas Informacion</a>
+        <a class="btn btn-outline-warning btn-lg btn-block"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
       </div>
 </div>
 </div>
@@ -70,12 +79,15 @@
 <div class="col-md-3 col-sm-6">
   <div class="card"  style="width: 17rem;">
     <img src="img/4.jpg" height="200px" class="card-img-top" alt="...">
-    <div class="card-body">
+    <div class="btn btn-outline-secondary">
         <center>
-      <h5 class="card-title">Conjunto De Roperos</h5>
-      <p class="card-text">Precio: Q3,600</p>
+        <h2 style = "font-family: Grethania Script;">
+        Conjunto De Roperos</h2>
+      <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q3,500</h4></p>
       <div class="card-body">
-        <a class="btn btn-info"  role="button">Mas Informacion</a>
+        <a class="btn btn-outline-info btn-lg btn-block"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
       </div>
 </div>
 </div>
@@ -89,12 +101,15 @@
     <div class="col-md-3 col-sm-6">
       <div class="card" style="width: 17rem;">
         <img src="img/5.jpg" height="200px" class="" alt="...">
-        <div class="card-body">
+        <div class="btn btn-outline-secondary">
             <center>
-          <h5 class="card-title">Conjunto Para Espejo</h5>
-          <p class="card-text">Precio: Q2,300</p>
+            <h2 style = "font-family: Grethania Script;">
+            Conjunto Para Espejo</h2>
+          <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q2,300</h4></p>
           <div class="card-body">
-            <a class="btn btn-success"  role="button"> Mas Informacion</a>
+            <a class="btn btn-outline-success btn-lg btn-blocks"  href="info.php" role="button"> <h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
           </div>
     </div>
   </div>
@@ -103,12 +118,15 @@
 <div class="col-md-3 col-sm-6">
   <div class="card" style="width: 17rem;">
     <img src="img/6.jpg" height="200px" class="card-img-top" alt="...">
-    <div class="card-body">
+    <div class="btn btn-outline-secondary">
         <center>
-      <h5 class="card-title">Sofa De Cuero</h5>
-      <p class="card-text">Precio: Q1,200</p>
+        <h2 style = "font-family: Grethania Script;">
+        Sofa De Cuero</h2>
+      <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q1,200</h4></p>
       <div class="card-body">
-        <a class="btn btn-warning" role="button">Mas Informacion</a>
+        <a class="btn btn-outline-info btn-lg btn-block"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
       </div>
 </div>
 </div>
@@ -117,12 +135,15 @@
 <div class="col-md-3 col-sm-6">
 <div class="card" style="width: 17rem;">
   <img src="img/7.jpg" height="200px" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="btn btn-outline-secondary">
       <center>
-    <h5 class="card-title">Estanteria 2 Piezas</h5>
-    <p class="card-text">Precio: Q800</p>
+      <h2 style = "font-family: Grethania Script;">
+      Estanteria 2 Piezas</h2>
+    <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q800</h4></p>
     <div class="card-body">
-      <a class="btn btn-dark"  role="button"> Mas Informacion</a>
+      <a class="btn btn-outline-dark btn-lg btn-blockk" href="info.php" role="button"> <h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
     </div>
 </div>
 </div>
@@ -131,12 +152,15 @@
 <div class="col-md-3 col-sm-6">
 <div class="card" style="width: 17rem;">
   <img src="img/8.jpg" height="200px" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="btn btn-outline-secondary">
       <center>
-    <h5 class="card-title">Ropero y Comoda</h5>
-    <p class="card-text">Precio: Q5,000</p>
+      <h2 style = "font-family: Grethania Script;">
+      Ropero y Comoda</h2>
+    <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q5,000</h4></p>
     <div class="card-body">
-      <a class="btn btn-danger" role="button">Mas Informacion</a>
+      <a class="btn btn-outline-danger btn-lg btn-block"   href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
     </div>
 </div>
 </div>
@@ -149,12 +173,15 @@
     <div class="col-md-3 col-sm-6">
       <div class="card" style="width: 17rem;">
         <img src="img/9.jpg" height="200px" class="card-img-top" alt="...">
-        <div class="card-body">
+        <div class="btn btn-outline-secondary">
             <center>
-          <h5 class="card-title">Ecritorio Para Computadora</h5>
-          <p class="card-text">Precio: Q1,700</p>
+            <h4 style = "font-family: Grethania Script;">
+            Ecritorio Para Computadora</h4>
+          <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q1,700</h4></p>
           <div class="card-body">
-            <a class="btn btn-dark"  role="button">Mas Informacion</a>
+            <a class="btn btn-outline-dark btn-lg btn-blockk"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
           </div>
     </div>
   </div>
@@ -163,12 +190,15 @@
 <div class="col-md-3 col-sm-6">
   <div class="card" style="width: 17rem;">
     <img src="img/10.jpg" height="200px" class="card-img-top" alt="...">
-    <div class="card-body">
+    <div class="btn btn-outline-secondary">
         <center>
-      <h5 class="card-title">Comoda</h5>
-      <p class="card-text">Precio: Q1,200</p>
+        <h2 style = "font-family: Grethania Script;">
+              Comoda</h2>
+      <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+      Precio: Q1,200</h4></p>
       <div class="card-body">
-            <a class="btn btn-info"  role="button">Mas Informacion</a>
+            <a class="btn btn-outline-info btn-lg btn-block"  href="info.php" role="button"> <h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
       </div>
 </div>
 </div>
@@ -177,12 +207,15 @@
 <div class="col-md-3 col-sm-6">
 <div class="card" style="width: 17rem;">
   <img src="img/11.jpg" height="200 px" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="btn btn-outline-secondary">
       <center>
-    <h5 class="card-title">Conjunto Cama</h5>
-    <p class="card-text">Precio: Q1,220</p>
+      <h2 style = "font-family: Grethania Script;">
+      Conjunto Cama</h2>
+    <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q1,220</h4></p>
     <div class="card-body">
-      <a class="btn btn-success"  role="button">Mas Informacion</a>
+      <a class="btn btn-outline-success btn-lg btn-block"  href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
     </div>
 </div>
 </div>
@@ -191,12 +224,15 @@
 <div class="col-md-3 col-sm-6">
 <div class="card" style="width: 17rem;">
   <img src="img/12.jpg" height="200x" class="card-img-top" alt="...">
-  <div class="card-body">
+  <div class="btn btn-outline-secondary">
       <center>
-    <h5 class="card-title">Literas</h5>
-    <p class="card-text">Precio: Q1,510</p>
+      <h2 style = "font-family: Grethania Script;">
+      Literas</h2>
+    <p class="card-text"><h4 style = "font-family: Sandy Kids;">
+        Precio: Q1,510</h4></p>
     <div class="card-body">
-    <a class="btn btn-dark"  role="button">Mas Informacion</a>
+    <a class="btn btn-outline-info btn-lg btn-block"   href="info.php" role="button"><h5 style = "font-family: Hello Valentica;">
+            Mas Informacion</h5></a>
     </div>
 </div>
 </div>
@@ -207,7 +243,8 @@
 </center>
 <br><br><br>
 <div class="d-grid gap-2">
-  <button class="btn btn-warning"  type="button">PBX: 89644005 - Direcion: 9-60, 6A Avenida, Cdad. de Guatemala  - Carnet:2020-40093 - Nombre: Dulce Maria Carias Orantes</button>
+  <button class="btn btn-warning" 
+              Ctype= "button">PBX: 89644005 - Direcion: 9-60, 6A Avenida, Cdad. de Guatemala  - Carnet:2020-40093 - Nombre: Dulce Maria Carias Orantes</button>
 </div>
 
 
